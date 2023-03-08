@@ -26,3 +26,5 @@ function query(json, queryStr) {
 
     return result;
 }
+
+module.exports = { query };
