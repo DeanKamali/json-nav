@@ -1,0 +1,23 @@
+{
+  "name": "json-nav",
+  "version": "1.0.1",
+  "description": "lightweight and easy-to-use npm package that simplifies the process of extracting specific data points from complex JSON objects. With this package, you can avoid writing custom code to extract data from nested JSON structures and instead rely on a simple query string to retrieve the desired information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanKamali/json-nav.git"
+  },
+  "keywords": [
+    "json",
+    "parse"
+  ],
+  "author": "Dean Kamali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanKamali/json-nav/issues"
+  },
+  "homepage": "https://github.com/DeanKamali/json-nav#readme"
+}
